@@ -8,3 +8,7 @@ In this work, we introduce ThompsonBALD, a simple and surprisingly effective Bay
 We demonstrate ThompsonBALD achieves performance comparable to other recent methods with significantly reduced computational time,
 and also compares favorably to other approaches which achieve batch diversity through injecting noise.
 
+## Links
+<a href="https://github.com/jaeikjeon9919/ThompsonBALD-Bayesian-Batch-Active-Learning/raw/master/MSc_Dissertation.pdf" download="ThompsonBALD_bayesian_batch_active_learning_for_deep_learning_via_thompson_sampling.pdf">MSc Dissertation</a>,
+<a href="https://github.com/jaeikjeon9919/ThompsonBALD-Bayesian-Batch-Active-Learning/raw/master/ThompsonBALD_bayesian_batch_active_learning_for_deep_learning_via_thompson_sampling.pdf" download="ThompsonBALD_bayesian_batch_active_learning_for_deep_learning_via_thompson_sampling_poster.pdf">Poster for NeurIPS Europe meetup on
+Bayesian Deep Learning</a>
