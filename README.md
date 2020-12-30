@@ -1,7 +1,4 @@
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
-
-
-# MSc-dissertation-Active-Learning
+# ThompsonBALD: Bayesian Batch Active Learning for Deep Learning via Thompson Sampling
 
 MNIST test accuracy as a function of number of acquired images from the pool set.
 -   Initial training set of 20 data points
